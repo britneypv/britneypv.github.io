@@ -2,16 +2,20 @@ body {
     background-color: rgb(162, 200, 216);
 }
 
-.titles {
-    color: green;
+#titles {
     font-weight: bold;
     font-family: Arial;
     text-align: center;
 }
 
-.text {
-    color: black;
+.header {
+    color: rgb(68, 71, 72);
     font-family: Arial;
     text-align: center;
+}
+
+.text{
+    color: rgb(68, 71, 72);
+    font-family: Arial;   
 }
 
