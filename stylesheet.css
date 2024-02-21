@@ -21,6 +21,8 @@ a:hover {
     color: rgb(68, 71, 72);
     font-family: Arial;
     text-align: center;
+    border: 2px solid rgb(81, 123, 240);
+    padding: 10px;
 }
 
 #titles {
