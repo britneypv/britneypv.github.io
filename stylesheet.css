@@ -3,14 +3,7 @@ body {
 }
 
 p {
-    margin: 20px 10px; /* Top/bottom margin of 20 pixels, left/right margin of 10 pixels */
-}
-
-
-#titles {
-    font-weight: bold;
-    font-family: Arial;
-    text-align: center;
+    margin: 50px; /* Top/bottom margin of 20 pixels, left/right margin of 10 pixels */
 }
 
 .header {
@@ -22,5 +15,11 @@ p {
 .text{
     color: rgb(68, 71, 72);
     font-family: Arial;   
+}
+
+#titles {
+    font-weight: bold;
+    font-family: Arial;
+    text-align: center;
 }
 
