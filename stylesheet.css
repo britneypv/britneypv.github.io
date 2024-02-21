@@ -1,10 +1,10 @@
-#titles {
+.titles {
     color: green;
     font-weight: bold;
     font-family: Arial;
 }
 
-#text {
+.text {
     color: black;
     font-family: Arial;
 }
