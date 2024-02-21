@@ -12,6 +12,11 @@ p {
     font-family: Arial;   
 }
 
+a:hover {
+    color: red; 
+}
+
+
 .header {
     color: rgb(68, 71, 72);
     font-family: Arial;
