@@ -2,6 +2,11 @@ body {
     background-color: rgb(162, 200, 216);
 }
 
+p {
+    margin: 20px 10px; /* Top/bottom margin of 20 pixels, left/right margin of 10 pixels */
+}
+
+
 #titles {
     font-weight: bold;
     font-family: Arial;
