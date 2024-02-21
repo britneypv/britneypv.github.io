@@ -3,18 +3,18 @@ body {
 }
 
 div {
-    margin: 50px; /* Top/bottom margin of 20 pixels, left/right margin of 10 pixels */
+    margin: 50px;
+}
+
+p {
+    color: rgb(68, 71, 72);
+    font-family: Arial;   
 }
 
 .header {
     color: rgb(68, 71, 72);
     font-family: Arial;
     text-align: center;
-}
-
-.text{
-    color: rgb(68, 71, 72);
-    font-family: Arial;   
 }
 
 #titles {
